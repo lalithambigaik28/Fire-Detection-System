@@ -179,19 +179,15 @@ Fire-Detection-System/
 
 # Block Diagram
 
-```markdown
 ![Block Diagram](Images/Block_Diagram.png)
-```
 
 ---
 
 # Flow Diagram
 
-```markdown
 ![Flow Diagram](Images/Flow_Diagram.png)
-```
 
----
+--
 
 # Author
 
